@@ -1,0 +1,15 @@
+C:\Users\simpy\OneDrive\Documents\GitHub\parameterdelegates\parameterDelegates\parameterDelegates\bin\Debug\net6.0\parameterDelegates.exe
+C:\Users\simpy\OneDrive\Documents\GitHub\parameterdelegates\parameterDelegates\parameterDelegates\bin\Debug\net6.0\parameterDelegates.deps.json
+C:\Users\simpy\OneDrive\Documents\GitHub\parameterdelegates\parameterDelegates\parameterDelegates\bin\Debug\net6.0\parameterDelegates.runtimeconfig.json
+C:\Users\simpy\OneDrive\Documents\GitHub\parameterdelegates\parameterDelegates\parameterDelegates\bin\Debug\net6.0\parameterDelegates.dll
+C:\Users\simpy\OneDrive\Documents\GitHub\parameterdelegates\parameterDelegates\parameterDelegates\bin\Debug\net6.0\parameterDelegates.pdb
+C:\Users\simpy\OneDrive\Documents\GitHub\parameterdelegates\parameterDelegates\parameterDelegates\obj\Debug\net6.0\parameterDelegates.csproj.AssemblyReference.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\parameterdelegates\parameterDelegates\parameterDelegates\obj\Debug\net6.0\parameterDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simpy\OneDrive\Documents\GitHub\parameterdelegates\parameterDelegates\parameterDelegates\obj\Debug\net6.0\parameterDelegates.AssemblyInfoInputs.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\parameterdelegates\parameterDelegates\parameterDelegates\obj\Debug\net6.0\parameterDelegates.AssemblyInfo.cs
+C:\Users\simpy\OneDrive\Documents\GitHub\parameterdelegates\parameterDelegates\parameterDelegates\obj\Debug\net6.0\parameterDelegates.csproj.CoreCompileInputs.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\parameterdelegates\parameterDelegates\parameterDelegates\obj\Debug\net6.0\parameterDelegates.dll
+C:\Users\simpy\OneDrive\Documents\GitHub\parameterdelegates\parameterDelegates\parameterDelegates\obj\Debug\net6.0\refint\parameterDelegates.dll
+C:\Users\simpy\OneDrive\Documents\GitHub\parameterdelegates\parameterDelegates\parameterDelegates\obj\Debug\net6.0\parameterDelegates.pdb
+C:\Users\simpy\OneDrive\Documents\GitHub\parameterdelegates\parameterDelegates\parameterDelegates\obj\Debug\net6.0\parameterDelegates.genruntimeconfig.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\parameterdelegates\parameterDelegates\parameterDelegates\obj\Debug\net6.0\ref\parameterDelegates.dll
